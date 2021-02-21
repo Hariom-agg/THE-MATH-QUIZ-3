@@ -1,0 +1,51 @@
+body
+{
+	background-image: url("816dfd710806e20aa40a7cd8c76d2e2d.jpg");
+	background-position: center;
+}
+
+    #LOGIN_DIV
+	{
+		background: white;
+		border-radius: 20px;
+		padding: 10px;
+		float: none;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	color: black;
+}
+
+#player1_name_input , #player2_name_input
+{
+	border-radius: 50px;
+}
+
+#number_1_text , #number_2_text
+{
+	border-radius: 50px;
+}
